@@ -14,4 +14,3 @@ This project analyzes text sentiment using **NLTK, VADER, and RoBERTa**, compari
 
 📂 **How to Use**:  
 - Install dependencies: `pip install nltk transformers pandas matplotlib`  
-- Run Jupyter notebooks in order (Step 0 → Extra).  
